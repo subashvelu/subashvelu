@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Space Astronaut Moving Banner -->
-<img src="https://raw.githubusercontent.com/MerrilyToWin/MerrilyToWin/main/github_banner.gif" width="100%" alt="Space Astronaut Banner" />
+<!-- Moving Space Banner -->
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/82264c107297969.5fa5f73d4e8c1.gif" width="100%" alt="Space Animation Banner" />
 
 <br/><br/>
 
@@ -21,13 +21,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/subash-v-3295812b6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:v.subashvelu2410@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="36" height="36" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/subashvelu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="36" height="36" />
   </a>
 </p>
 
