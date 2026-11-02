@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Space Floating Astronaut Moving Header Banner -->
-<img src="banner.gif" width="100%" alt="Space Astronaut Banner" />
-
-<br/><br/>
+<!-- Cropped & Compact Space Astronaut Banner -->
+<p align="center">
+  <img src="banner.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 12px;" alt="Space Astronaut Banner" />
+</p>
 
 # Hi There, I'm Subash V 👋
 
@@ -14,6 +14,8 @@
 <p align="center">
   <b>As an aspiring Cloud & DevOps Engineer, I focus on building resilient CI/CD pipelines, container orchestration, and zero-trust cloud architectures.</b>
 </p>
+
+</div>
 
 ---
 
@@ -116,13 +118,13 @@
 
 ### 📊 Contribution Streak
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashvelu&theme=tokyonight&hide_border=true" alt="Subash Streak" />
-</p>
+</div>
 
 <br/>
 
-<!-- Terminal / Pixel Workspace Ambience -->
-<img src="workspace.gif" width="100%" alt="Developer Workspace" />
-
+<!-- Cropped Compact Workspace GIF -->
+<div align="center">
+  <img src="workspace.gif" width="85%" height="220px" style="object-fit: cover; border-radius: 10px;" alt="Developer Workspace" />
 </div>
