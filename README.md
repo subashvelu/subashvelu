@@ -50,4 +50,72 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://helm.sh" target="_blank" rel="noreferrer">
-    <img src="
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
+  </a>
+</p>
+
+#### CI/CD & Version Control
+<p align="left">
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github-actions" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+
+#### OS & Scripting
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
+
+#### Web & Databases
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Production Repositories & Deployments
+
+| Repository | Focus & Architecture | Source Link |
+| :--- | :--- | :--- |
+| **🚗 Intech Motors Site** | CI/CD pipeline deploying to **AWS S3 & CloudFront** using **GitHub Actions OIDC** without hardcoded keys. | [View Project ➜](https://github.com/subashvelu/intech-motors-site) |
+| **🖥️ Linux Health Monitor** | Automated **Bash & Systemctl** monitoring utility for tracking CPU, memory loads, and automated threshold alerts. | [View Project ➜](https://github.com/subashvelu/linux-health-monitor) |
+| **⚡ Maxera Website** | Next.js application workflow with automated continuous build and test integration. | [View Project ➜](https://github.com/subashvelu/maxera-website) |
+| **☁️ AWS Cloud Setup** | Core multi-tier VPC, security groups, and automated EC2 deployment configuration. | [View Project ➜](https://github.com/subashvelu/cloud-project) |
+
+---
+
+### 📊 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashvelu&theme=tokyonight&hide_border=true" alt="Subash Streak" />
+</p>
+
+</div>
