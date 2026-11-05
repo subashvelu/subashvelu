@@ -10,8 +10,9 @@
 
 <a href="https://d166dz9n7bj9t4.cloudfront.net"><img src="https://img.shields.io/badge/LIVE%20PROJECT-Intech%20Motors-d4a62a?style=for-the-badge&labelColor=0a0d11" alt="Live project"></a>
 <a href="https://www.linkedin.com/in/subash-v-3295812b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:v.subash2410@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=v.subash2410@gmail.com&amp;su=Hello%20Subash"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=v.subashvelu2410@gmail.com">email</a>
 </div>
 
 ---
