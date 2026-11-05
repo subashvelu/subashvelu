@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/subash-v-3295812b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=v.subash2410@gmail.com&amp;su=Hello%20Subash"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=v.subashvelu2410@gmail.com">email</a>
 </div>
 
 ---
@@ -23,6 +22,7 @@
 - 🏗️ I built and deployed a **live website for a car workshop in Mylapore, Chennai** on AWS (S3 + CloudFront) with automated CI/CD and an offline billing app for the owner.
 - 🔐 I care about security basics: no stored AWS keys (OIDC), private buckets, least-privilege IAM.
 - 🎯 Looking for **fresher Cloud / DevOps Engineer** roles. 📍 Chennai, India.
+- 📧 **v.subash2410@gmail.com**
 
 ---
 
@@ -90,5 +90,5 @@ flowchart LR
 ---
 
 <div align="center">
-  <sub>📫 Reach me on <a href="https://www.linkedin.com/in/subash-v-3295812b6">LinkedIn</a> or by <a href="mailto:v.subashvelu2410@gmail.com">email</a> · ⭐ A star is always appreciated</sub>
+  <sub>📫 Reach me on <a href="https://www.linkedin.com/in/subash-v-3295812b6">LinkedIn</a> or by <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=v.subash2410@gmail.com">email</a> · ⭐ A star is always appreciated</sub>
 </div>
