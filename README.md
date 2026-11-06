@@ -46,7 +46,7 @@
 |:--|:--|:--|
 | **🚗 Intech Motors Site** | AWS **S3 + CloudFront** hosting, **CloudFormation**, **GitHub Actions with OIDC (no stored keys)**, offline billing PWA | [Code ➜](https://github.com/subashvelu/intech-motors-site) · [Live ➜](https://d166dz9n7bj9t4.cloudfront.net) |
 | **🖥️ Linux Health Monitor** | Bash automation that tracks CPU, memory and storage and raises threshold alerts | [Code ➜](https://github.com/subashvelu/linux-health-monitor) |
-| **☁️ AWS Cloud Setup** | VPC segmentation, Security Groups, IAM roles and EC2 architecture | [Code ➜][Code ➜](https://github.com/subashvelu/devops-cloud-app) |
+| **☁️ AWS Cloud Setup** | VPC segmentation, Security Groups, IAM roles and EC2 architecture |    [Code ➜](https://github.com/subashvelu/devops-cloud-app) |
 | **⚡ Maxera Website** | Next.js app with an automated integration and delivery workflow | [Code ➜](https://github.com/subashvelu/maxera-website) |
 
 <details>
